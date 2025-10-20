@@ -18,8 +18,4 @@ This repository contains machine learning projects and experiments.
 - Python 3.8+
 - Required packages listed in requirements.txt
 
-## License
-MIT License
-
-## Contact
-[Your Name/Contact Information]
+ 
